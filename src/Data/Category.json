@@ -1,0 +1,221 @@
+{
+    "Home Appliances": {
+        "Kitchen Appliances": [
+            "Mixer Grinder",
+            "Juicers",
+            "Hand Blenders",
+            "Food Processor",
+            "Oven Toaster Grilss",
+            "Rice And Pasta Cookers",
+            "Deep Fryers",
+            "Hand Mixers",
+            "Coffee Machines",
+            "Wet Grinders",
+            "Induction Cooktops",
+            "Sandwich Makers",
+            "Electric Kettles",
+            "Refrigerator",
+            "Chimney",
+            "Dishwasher",
+            "Microwave Oven"
+        ],
+        "Other Appliances": [
+            "Air Conditioner",
+            "Washing Machine",
+            "Dishwasher",
+            "Water Purifier",
+            "Vacuum Cleaners",
+            "Sewing Machines And Accessories",
+            "Irons",
+            "Inverters",
+            "Fans",
+            "Water Heaters",
+            "Air Coolers",
+            "Air Purifier",
+            "Dehumidifiers",
+            "Humidifier"
+        ]
+    },
+    "Kitchen Tools": {
+        "_uncategorized": [
+            "Cookware sets",
+            "Frying Pans",
+            "Tawas",
+            "Kadhai",
+            "Pressure Cookers",
+            "Water Bottle And Flasks",
+            "Jars And Container",
+            "Lunch Boxes",
+            "Chopper and Chippers",
+            "Graters And Slicers",
+            "Knives",
+            "Baking Tools",
+            "Dinner Sets",
+            "Dining Tables",
+            "Kitchen Cabinet",
+            "Crockery Unit",
+            "Bar stool",
+            "Bar cabinet",
+            "Serving Trolley"
+        ]
+    },
+    "Furniture": {
+        "Living Room Furniture": [
+            "Sofa Beds",
+            "Sofa Sets",
+            "L-Shaped Sofas",
+            "Recliners",
+            "Tv And Entertainment Units",
+            "Centre Tables",
+            "Nested Tables",
+            "Chairs",
+            "Shoe Rack",
+            "Footstool",
+            "Pouffes And Ottomans",
+            "Bean Bags",
+            "Wall Shelves",
+            "Magazine Racks"
+        ],
+        "Bedroom Furniture": [
+            "Beds",
+            "Mattresses",
+            "Wardrobes",
+            "Bedside Tables",
+            "Dressing Tables",
+            "Chest Of Drawers"
+        ],
+        "Kitchen And Dining": [
+            "Dining Table Sets",
+            "Dining Chairs",
+            "Kitchen Cabintes"
+        ],
+        "Study Room Furniture": [
+            "Desks",
+            "Office Chiars",
+            "Bookcases"
+        ],
+        "Outdoor Furniture": [
+            "Hammocks",
+            "Swing Chairs",
+            "Outdoor Furniture Sets",
+            "Patio Umbrella"
+        ]
+    },
+    "Linen And Rugs": {
+        "Bedroom Linen": [
+            "Bedsheets",
+            "Bed Pillow",
+            "Speciality Pillow",
+            "Blankets And Quilts",
+            "Mattresses Protectors",
+            "Bedding Sets",
+            "Duvet Covers",
+            "Fitted Bedsheets",
+            "Pillow Cases",
+            "Cushion Covers",
+            "Cushions",
+            "Slipcovers",
+            "Diwan Sets"
+        ],
+        "Bathroom Linen": [
+            "Bath Mats",
+            "Bath Pillow",
+            "Bathrobes",
+            "Shower Curtains",
+            "Bath Towels"
+        ]
+    },
+    "Curtians And Accessories": {
+        "_uncategorized": [
+            "Curtains",
+            "Blinds",
+            "Valances",
+            "Tiers",
+            "Swags",
+            "Accessories",
+            "Carpet And Rugs",
+            "Carpets",
+            "Rugs",
+            "Doormats",
+            "Stair Carpets",
+            "Kitchen Linen",
+            "Aprons",
+            "Table Cloth",
+            "Place Mats",
+            "Table Runners",
+            "Oven Gloves"
+        ]
+    },
+    "Bathroom And Kitchen Fixtures": {
+        "_uncategorized": [
+            "Bathroom Basin Taps",
+            "Bathroom Hardware",
+            "Health Fausets",
+            "Shower And Bath Taps",
+            "Shower Heads",
+            "Kitchen Fixtures"
+        ]
+    },
+    "Safes And Security": {
+        "_uncategorized": [
+            "Safes",
+            "Video Door Phone",
+            "Alarms",
+            "Home Security System"
+        ]
+    },
+    "Door Locks And Hardware": {
+        "_uncategorized": [
+            "Ladders",
+            "Door Locks",
+            "Hooks",
+            "Door Hardware",
+            "Furniture Hardware",
+            "Cabinet Hardware"
+        ]
+    },
+    "Outdoor Decor": {
+        "_uncategorized": [
+            "Decorative Pots",
+            "Sculptures",
+            "Fountains",
+            "Wind Chimes",
+            "Birdbaths",
+            "Solar Garden Lights"
+        ]
+    },
+    "Lights": {
+        "Functional Lighting": [
+            "Light Bulbs",
+            "LED Bulbs",
+            "Emergency Lights",
+            "Clip Lights",
+            "Desk Lights",
+            "Working Lights",
+            "Wall Lights",
+            "Reading Lights",
+            "Wall Spotlights"
+        ],
+        "Decorative Lighting": [
+            "Standing Lights",
+            "Table lamps",
+            "Floor lamps",
+            "Lamp Shades"
+        ],
+        "Speciality Lighting": [
+            "Book Lights",
+            "Lava Lamps",
+            "Night Lights",
+            "Seasonal Lights",
+            "Lamp Bases"
+        ],
+        "Fixtures": [
+            "Bathroom Lights",
+            "Ceiling Lights",
+            "Chandeliers",
+            "Picture And Display Lights",
+            "Recessed lights",
+            "Track, Rail And Cable Lighting System"
+        ]
+    }
+}
